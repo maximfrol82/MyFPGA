@@ -1,0 +1,245 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -17.382
+TNS   : -1482.761
+
+Type  : Slow 1200mV 85C Model Setup 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : -11.230
+TNS   : -338.017
+
+Type  : Slow 1200mV 85C Model Setup 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : -4.037
+TNS   : -49.576
+
+Type  : Slow 1200mV 85C Model Setup 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : -2.253
+TNS   : -7.758
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.191
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : -2.328
+TNS   : -20.944
+
+Type  : Slow 1200mV 85C Model Recovery 'clk'
+Slack : -2.103
+TNS   : -458.234
+
+Type  : Slow 1200mV 85C Model Recovery 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : -1.708
+TNS   : -3.416
+
+Type  : Slow 1200mV 85C Model Recovery 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : -1.361
+TNS   : -8.161
+
+Type  : Slow 1200mV 85C Model Removal 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : 1.669
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk'
+Slack : 2.001
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : 2.030
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : 2.675
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -523.450
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : -1.487
+TNS   : -81.785
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : -1.487
+TNS   : -25.279
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : -1.487
+TNS   : -8.922
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -15.876
+TNS   : -1356.191
+
+Type  : Slow 1200mV 0C Model Setup 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : -10.343
+TNS   : -311.184
+
+Type  : Slow 1200mV 0C Model Setup 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : -3.807
+TNS   : -46.046
+
+Type  : Slow 1200mV 0C Model Setup 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : -2.037
+TNS   : -6.887
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.146
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : -2.021
+TNS   : -18.189
+
+Type  : Slow 1200mV 0C Model Recovery 'clk'
+Slack : -1.787
+TNS   : -384.495
+
+Type  : Slow 1200mV 0C Model Recovery 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : -1.419
+TNS   : -2.838
+
+Type  : Slow 1200mV 0C Model Recovery 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : -1.094
+TNS   : -6.563
+
+Type  : Slow 1200mV 0C Model Removal 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : 1.482
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk'
+Slack : 1.792
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : 1.822
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : 2.449
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -523.450
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : -1.487
+TNS   : -81.785
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : -1.487
+TNS   : -25.279
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : -1.487
+TNS   : -8.922
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -6.906
+TNS   : -444.239
+
+Type  : Fast 1200mV 0C Model Setup 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : -4.160
+TNS   : -111.796
+
+Type  : Fast 1200mV 0C Model Setup 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : -1.181
+TNS   : -11.574
+
+Type  : Fast 1200mV 0C Model Setup 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : -0.395
+TNS   : -0.395
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.057
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : -0.483
+TNS   : -4.339
+
+Type  : Fast 1200mV 0C Model Recovery 'clk'
+Slack : -0.443
+TNS   : -84.919
+
+Type  : Fast 1200mV 0C Model Recovery 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : -0.227
+TNS   : -0.454
+
+Type  : Fast 1200mV 0C Model Recovery 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : -0.077
+TNS   : -0.462
+
+Type  : Fast 1200mV 0C Model Removal 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : 0.687
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : 0.840
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk'
+Slack : 0.916
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : 1.108
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -463.070
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'simple_struct:u0|usart:usart_0|rx_dv'
+Slack : -1.000
+TNS   : -55.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'simple_struct:u0|controller:controller_0|pgen:string_gen|Output'
+Slack : -1.000
+TNS   : -17.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'simple_struct:u0|usart:usart_0|bit_clk'
+Slack : -1.000
+TNS   : -6.000
+
+------------------------------------------------------------
